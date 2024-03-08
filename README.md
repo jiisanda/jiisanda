@@ -4,7 +4,7 @@
 - [DocFlow](https://www.github.com/jiisanda/docflow)
     -> Document Management API designed to streamline document handling, including seamless uploading, downloading, organization, versioning, sharing, and more.
 
-- VidVortex -> Rust based CLI application
+- [VidVortex](https://www.github.com/jiisanda/vidvortex) -> Rust based CLI utility for retrieving total video length in directory and its subdirectories and do more with videos iguess🤔
 
 - [Schreiber](https://www.github.com/jiisanda/schreiber)
     -> Schreiber is a simple text editor build using Rust.
