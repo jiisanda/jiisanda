@@ -1,6 +1,8 @@
 
 ## 👽 Currently working on
 
+- [pandas-pouch](https://www.github.com/jiisanda/pandas-pouch) -> A Rust based Distributed Caching Service
+
 - [DocFlow](https://www.github.com/jiisanda/docflow)
     -> Document Management API designed to streamline document handling, including seamless uploading, downloading, organization, versioning, sharing, and more.
 
@@ -11,17 +13,21 @@
 
 ## ✨ Highlights
 
+- Started a new project [pandas-pouch](https://www.github.com/jiisanda/pandas-pouch)
+- Completed main feature of VidVortex.
 - Released the v1 of DocFlow.
-- Upcoming: Few API updates on DocFlow, related to the feedback from reddit post.
 
 ## 🗞️ Articles
 
+- UUID or ULID: Awesomeness of Unique Identifiers @dev.to   - Draft
 - Sidecar Pattern @[dev.to](https://dev.to/jiisanda/sidecar-pattern-4cp3)
 - How does python-dotenv simplify Configuration Management? @[dev.to](https://dev.to/jiisanda/how-does-python-dotenv-simplify-configuration-management-3ne6)
 
 ### 🐼 Pet Projects
 
 - [DocFlow](https://www.github.com/jiisanda/docflow) - Document Management API
+
+- [VidVortex](https://www.github.com/jiisanda/vidvortex) - Rust based utility for doing stuff with videos
 
 - [Schreiber](https://www.github.com/jiisanda/schreiber) - A simple CLI based text editor
 
@@ -31,5 +37,5 @@
 
 ## ☎️ Contact
 
-<a target="_blank" href="mailto:harshjaiswal2307@gmail.com"> <img src="https://img.shields.io/badge/Gmail-100000?style=for-the-badge&logo=gmail&logoColor=white"/> </a>
-<a target="_blank" href="https://www.linkedin.com/in/jiisanda"> <img src="https://img.shields.io/badge/LinkedIn-100000?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
+[![Gmail](https://img.shields.io/badge/Gmail-100000?style=for-the-badge&logo=gmail&logoColor=white)](mailto:harshjaiswal2307@gmail.com)
+[![LinkedIn](https://img.shields.io/badge/linkedin-100000.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/jiisanda)
