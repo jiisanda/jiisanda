@@ -19,7 +19,7 @@
 
 ## 🗞️ Articles
 
-- UUID or ULID: Awesomeness of Unique Identifiers [@dev.to](https://dev.to/jiisanda/uuid-or-ulid-awesomeness-of-unique-identifiers-48cd)
+- UUID or ULID: Awesomeness of Unique Identifiers @[dev.to](https://dev.to/jiisanda/uuid-or-ulid-awesomeness-of-unique-identifiers-48cd)
 - Sidecar Pattern @[dev.to](https://dev.to/jiisanda/sidecar-pattern-4cp3)
 - How does python-dotenv simplify Configuration Management? @[dev.to](https://dev.to/jiisanda/how-does-python-dotenv-simplify-configuration-management-3ne6)
 
