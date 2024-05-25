@@ -1,6 +1,8 @@
 
 ## 👽 Currently working on
 
+- [rfc793](https://www.github.com/jiisanda/rfc793) -> Implementing TCP with Rust
+
 - [pandas-pouch](https://www.github.com/jiisanda/pandas-pouch) -> A Rust based Distributed Caching Service
 
 - [DocFlow](https://www.github.com/jiisanda/docflow)
