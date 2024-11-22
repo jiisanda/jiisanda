@@ -1,23 +1,17 @@
 
 ## 👽 Currently working on
 
-- [rfc793](https://www.github.com/jiisanda/rfc793) -> Implementing TCP with Rust
+- [restart ALREADY!](https://www.github.com/jiisanda/restart-already) -> did you? 
 
 - [pandas-pouch](https://www.github.com/jiisanda/pandas-pouch) -> A Rust based Distributed Caching Service
 
 - [DocFlow](https://www.github.com/jiisanda/docflow)
     -> Document Management API designed to streamline document handling, including seamless uploading, downloading, organization, versioning, sharing, and more.
 
-- [VidVortex](https://www.github.com/jiisanda/vidvortex) -> Rust based CLI utility for retrieving total video length in directory and its subdirectories and do more with videos iguess🤔
-
-- [Schreiber](https://www.github.com/jiisanda/schreiber)
-    -> Schreiber is a simple text editor build using Rust.
-
 ## ✨ Highlights
 
-- Started a new project [pandas-pouch](https://www.github.com/jiisanda/pandas-pouch)
-- Completed main feature of VidVortex.
-- Released the v1 of DocFlow.
+- Started a new project [restart ALREADY!](https://www.github.com/jiisanda/restart-already)
+- Working on [pandas-pouch](https://www.github.com/jiisanda/pandas-pouch)
 
 ## 🗞️ Articles
 
@@ -28,6 +22,8 @@
 - How does python-dotenv simplify Configuration Management? @[dev.to](https://dev.to/jiisanda/how-does-python-dotenv-simplify-configuration-management-3ne6)
 
 ### 🐼 Pet Projects
+
+- [pandas-pouch](https://www.github.com/jiisanda/pandas-pouch) - Distributed Caching Service 
 
 - [DocFlow](https://www.github.com/jiisanda/docflow) - Document Management API
 
