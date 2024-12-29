@@ -15,6 +15,7 @@
 
 ## 🗞️ Articles
 
+- AWS Network Fundamentals for EC2 instance! @[dev.to](https://dev.to/jiisanda/aws-network-fundamentals-for-ec2-instance-4684)
 - Reverse Proxy and Load Balancing: Do we need both ? @[dev.to](https://dev.to/jiisanda/reverse-proxy-and-load-balancing-do-we-need-both--45hc)
 - you got memcached! @[dev.to](https://dev.to/jiisanda/you-got-memcached-2o5b-temp-slug-4896106?preview=d5b45adfb1c9ae3f6f8f36bb4295fcdba93d38ddcf76b2d262ca55ff27392922d0f2e9c436a473d00fabbfefbe858a0c20ca3af0e35d67773482a704) - Draft
 - UUID or ULID: Awesomeness of Unique Identifiers @[dev.to](https://dev.to/jiisanda/uuid-or-ulid-awesomeness-of-unique-identifiers-48cd)
