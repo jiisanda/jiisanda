@@ -1,7 +1,7 @@
 
 ## 👽 Currently working on
 
-- [restart ALREADY!](https://www.github.com/jiisanda/restart-already) -> did you? 
+- TweetyGuards [banner](https://photos.app.goo.gl/a1G7fjfgXMKLBboD8)
 
 - [pandas-pouch](https://www.github.com/jiisanda/pandas-pouch) -> A Rust based Distributed Caching Service
 
@@ -40,5 +40,6 @@
 
 ## ☎️ Contact
 
-[![Gmail](https://img.shields.io/badge/Gmail-100000?style=for-the-badge&logo=gmail&logoColor=white)](mailto:harshjaiswal2307@gmail.com)
+[![
+Gmail](https://img.shields.io/badge/Gmail-100000?style=for-the-badge&logo=gmail&logoColor=white)](mailto:harshjaiswal2307@gmail.com)
 [![LinkedIn](https://img.shields.io/badge/linkedin-100000.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/jiisanda)
