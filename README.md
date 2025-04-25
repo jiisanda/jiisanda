@@ -1,7 +1,7 @@
 
 ## 👽 Currently working on
 
-- [TweetyGuards](https://photos.app.goo.gl/a1G7fjfgXMKLBboD8)
+- [TweetyGuards](https://github.com/jiisanda/jiisanda/blob/99f9651f07f94fb66f5bd8278a14e68fe242124d/TweetyGuards.png)
 
 - [pandas-pouch](https://www.github.com/jiisanda/pandas-pouch) -> A Rust based Distributed Caching Service
 
